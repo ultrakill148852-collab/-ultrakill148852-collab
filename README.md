@@ -7,6 +7,23 @@
 
 <br />
 
+## 🎯 Currently Working On
+
+<div align="center">
+
+### QuantumGuarder
+Real-time quantum noise cancellation via Coherent Destructive Phase Interference (CDPI)
+
+[![CI/CD](https://github.com/ultrakill148852-collab/QuantumGuarder/actions/workflows/run_demo.yml/badge.svg)](https://github.com/ultrakill148852-collab/QuantumGuarder/actions/workflows/run_demo.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue?style=flat-square)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
+
+[![QuantumGuarder](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ultrakill148852-collab/QuantumGuarder)
+
+</div>
+
+<br />
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -25,6 +42,9 @@
 
 ### 🔐 Security & Network
 <img src="https://skillicons.dev/icons?i=wireshark,postman,openssl" alt="security" />
+
+### ⚛️ Quantum & Scientific Computing
+<img src="https://skillicons.dev/icons?i=python,numpy,scipy,matplotlib,jupyter" alt="quantum" />
 
 </div>
 
@@ -50,8 +70,13 @@ Cryptographically chained packet transport protocol written in Rust.
 
 [![VCL Protocol](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ultrakill148852-collab/vcl-protocol)
 
+### QuantumGuarder
+Software-defined quantum noise cancellation using CDPI (Coherent Destructive Phase Interference). Real-time Kalman filtering + anti-phase pulse synthesis for decoherence suppression.
+
+[![QuantumGuarder](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ultrakill148852-collab/QuantumGuarder)
+
 ---
 
-**Creator of the VCL Protocol** | Advanced Programmer | Cryptography Enthusiast
+**Creator of the VCL Protocol** | Advanced Programmer | Cryptography Enthusiast | Quantum Computing Researcher
 
 ![snake animation](https://raw.githubusercontent.com/ultrakill148852-collab/ultrakill148852-collab/output/github-contribution-grid-snake.svg)
